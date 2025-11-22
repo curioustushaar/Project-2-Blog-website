@@ -8,6 +8,17 @@ The app allows:
 - Admin → Write, update, delete blogs, upload images, generate content using AI  
 
 ---
+## 🔑 Admin Login Credentials
+To access the Admin Dashboard, use the following credentials:
+ADMIN_EMAIL = abc@gmail.com
+ADMIN_PASSWORD = abc
+
+
+
+## 🌐 Live Demo
+You can check out the live deployed version of the project here:
+🔗 **Live Link:**(https://project-2-blog-website.vercel.app/)
+
 
 ## 🚀 Features
 
